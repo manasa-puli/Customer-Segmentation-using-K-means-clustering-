@@ -86,10 +86,3 @@ This project successfully segments customers based on their buying behavior and 
 
 ---
 
-## 📂 Repository Structure
-
-```bash
-├── Consumer_buying_behavior_Paul.ipynb   # Jupyter Notebook with analysis
-├── wholesale_customers.csv              # Dataset 1: Customer features
-├── online_retail.csv                    # Dataset 2: Sales transactions
-├── README.md                            # Project overview and insights
